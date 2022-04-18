@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "476110651128",
+    "project_id": "wedad-course",
+    "storage_bucket": "wedad-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476110651128:android:cb2553bd2be471a90f050d",
+        "android_client_info": {
+          "package_name": "com.example.wedad_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476110651128-2c46ichfr8gp0vfpg9vb9rc3asom2otg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vsfavKW0VAUYPj5FiIYq9ypWn8nQxnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476110651128-2c46ichfr8gp0vfpg9vb9rc3asom2otg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476110651128:android:9d00095fbf59eb4e0f050d",
+        "android_client_info": {
+          "package_name": "com.example.wedad_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476110651128-2c46ichfr8gp0vfpg9vb9rc3asom2otg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vsfavKW0VAUYPj5FiIYq9ypWn8nQxnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476110651128-2c46ichfr8gp0vfpg9vb9rc3asom2otg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
